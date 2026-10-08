@@ -1,0 +1,2 @@
+# arcpy vem com o ArcGIS Pro (instalado e licenciado). Não instale via pip.
+# agrupamento.py usa só a biblioteca padrão do Python.

@@ -1,0 +1,375 @@
+{
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 31983
+ },
+ "fields": [
+  {
+   "name": "INSCRICAO",
+   "type": "esriFieldTypeString",
+   "length": 20
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "INSCRICAO": "0000001"
+   },
+   "geometry": {
+    "x": 500388.6,
+    "y": 8000181.02
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000002"
+   },
+   "geometry": {
+    "x": 500781.12,
+    "y": 8000086.92
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000003"
+   },
+   "geometry": {
+    "x": 500643.06,
+    "y": 8000438.83
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000004"
+   },
+   "geometry": {
+    "x": 500069.6,
+    "y": 8000608.92
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000005"
+   },
+   "geometry": {
+    "x": 500044.99,
+    "y": 8000520.37
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000006"
+   },
+   "geometry": {
+    "x": 500083.83,
+    "y": 8000108.86
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000007"
+   },
+   "geometry": {
+    "x": 500509.42,
+    "y": 8000992.22
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000008"
+   },
+   "geometry": {
+    "x": 500148.56,
+    "y": 8000267.89
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000009"
+   },
+   "geometry": {
+    "x": 500752.92,
+    "y": 8001137.25
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000010"
+   },
+   "geometry": {
+    "x": 500692.52,
+    "y": 8000476.02
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000011"
+   },
+   "geometry": {
+    "x": 501171.51,
+    "y": 8000055.9
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000012"
+   },
+   "geometry": {
+    "x": 501030.16,
+    "y": 8000347.53
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000013"
+   },
+   "geometry": {
+    "x": 500173.11,
+    "y": 8000141.35
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000014"
+   },
+   "geometry": {
+    "x": 500370.18,
+    "y": 8000979.35
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000015"
+   },
+   "geometry": {
+    "x": 500216.87,
+    "y": 8000697.92
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000016"
+   },
+   "geometry": {
+    "x": 500766.7,
+    "y": 8000446.88
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000017"
+   },
+   "geometry": {
+    "x": 500657.29,
+    "y": 8000075.35
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000018"
+   },
+   "geometry": {
+    "x": 500071.52,
+    "y": 8000247.15
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000019"
+   },
+   "geometry": {
+    "x": 500816.48,
+    "y": 8000513.11
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000020"
+   },
+   "geometry": {
+    "x": 500376.98,
+    "y": 8000702.67
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000021"
+   },
+   "geometry": {
+    "x": 500543.82,
+    "y": 8000359.72
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000022"
+   },
+   "geometry": {
+    "x": 500953.26,
+    "y": 8000838.79
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000023"
+   },
+   "geometry": {
+    "x": 500292.92,
+    "y": 8000689.31
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000024"
+   },
+   "geometry": {
+    "x": 500630.24,
+    "y": 8001050.16
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000025"
+   },
+   "geometry": {
+    "x": 500875.33,
+    "y": 8000345.53
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000026"
+   },
+   "geometry": {
+    "x": 501176.21,
+    "y": 8000141.68
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000027"
+   },
+   "geometry": {
+    "x": 500501.75,
+    "y": 8000908.57
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000028"
+   },
+   "geometry": {
+    "x": 500182.38,
+    "y": 8000586.76
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000029"
+   },
+   "geometry": {
+    "x": 500047.05,
+    "y": 8000801.86
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000030"
+   },
+   "geometry": {
+    "x": 500917.49,
+    "y": 8000687.63
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000031"
+   },
+   "geometry": {
+    "x": 501050.57,
+    "y": 8000376.5
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000032"
+   },
+   "geometry": {
+    "x": 500834.35,
+    "y": 8000713.24
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000033"
+   },
+   "geometry": {
+    "x": 500695.87,
+    "y": 8000547.45
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000034"
+   },
+   "geometry": {
+    "x": 501007.96,
+    "y": 8001133.62
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000035"
+   },
+   "geometry": {
+    "x": 500568.92,
+    "y": 8000796.98
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000036"
+   },
+   "geometry": {
+    "x": 500072.8,
+    "y": 8000841.79
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000037"
+   },
+   "geometry": {
+    "x": 500776.55,
+    "y": 8001191.72
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000038"
+   },
+   "geometry": {
+    "x": 500986.31,
+    "y": 8000341.51
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000039"
+   },
+   "geometry": {
+    "x": 500462.95,
+    "y": 8000802.38
+   }
+  },
+  {
+   "attributes": {
+    "INSCRICAO": "0000040"
+   },
+   "geometry": {
+    "x": 500027.08,
+    "y": 8000554.03
+   }
+  }
+ ]
+}

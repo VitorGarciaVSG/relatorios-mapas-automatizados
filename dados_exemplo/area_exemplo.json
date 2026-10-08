@@ -1,0 +1,46 @@
+{
+ "geometryType": "esriGeometryPolygon",
+ "spatialReference": {
+  "wkid": 31983
+ },
+ "fields": [
+  {
+   "name": "NOME",
+   "type": "esriFieldTypeString",
+   "length": 50
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "NOME": "Bairro Exemplo"
+   },
+   "geometry": {
+    "rings": [
+     [
+      [
+       499800,
+       7999800
+      ],
+      [
+       499800,
+       8001400
+      ],
+      [
+       501400,
+       8001400
+      ],
+      [
+       501400,
+       7999800
+      ],
+      [
+       499800,
+       7999800
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

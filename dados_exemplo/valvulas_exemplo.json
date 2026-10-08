@@ -1,0 +1,536 @@
+{
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 31983
+ },
+ "fields": [
+  {
+   "name": "ID_VALV",
+   "type": "esriFieldTypeInteger"
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "ID_VALV": 1
+   },
+   "geometry": {
+    "x": 500229.83,
+    "y": 8000875.79
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 2
+   },
+   "geometry": {
+    "x": 500834.42,
+    "y": 8001048.28
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 3
+   },
+   "geometry": {
+    "x": 500332.14,
+    "y": 8000090.37
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 4
+   },
+   "geometry": {
+    "x": 500996.52,
+    "y": 8000312.57
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 5
+   },
+   "geometry": {
+    "x": 500219.63,
+    "y": 8000916.22
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 6
+   },
+   "geometry": {
+    "x": 500882.52,
+    "y": 8001112.9
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 7
+   },
+   "geometry": {
+    "x": 500441.93,
+    "y": 8000315.47
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 8
+   },
+   "geometry": {
+    "x": 500846.63,
+    "y": 8000207.95
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 9
+   },
+   "geometry": {
+    "x": 500284.49,
+    "y": 8001083.55
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 10
+   },
+   "geometry": {
+    "x": 500855.83,
+    "y": 8000935.11
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 11
+   },
+   "geometry": {
+    "x": 500424.45,
+    "y": 8000096.5
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 12
+   },
+   "geometry": {
+    "x": 500906.28,
+    "y": 8000418.65
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 13
+   },
+   "geometry": {
+    "x": 500372.28,
+    "y": 8000866.31
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 14
+   },
+   "geometry": {
+    "x": 500902.72,
+    "y": 8000984.75
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 15
+   },
+   "geometry": {
+    "x": 500459.53,
+    "y": 8000144.15
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 16
+   },
+   "geometry": {
+    "x": 501029.56,
+    "y": 8000137.97
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 17
+   },
+   "geometry": {
+    "x": 499883.21,
+    "y": 8000815.04
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 18
+   },
+   "geometry": {
+    "x": 500721.79,
+    "y": 8001072.64
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 19
+   },
+   "geometry": {
+    "x": 500443.0,
+    "y": 8000129.33
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 20
+   },
+   "geometry": {
+    "x": 501068.63,
+    "y": 8000209.69
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 21
+   },
+   "geometry": {
+    "x": 500237.93,
+    "y": 8000858.85
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 22
+   },
+   "geometry": {
+    "x": 500866.02,
+    "y": 8001064.61
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 23
+   },
+   "geometry": {
+    "x": 500439.38,
+    "y": 8000348.98
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 24
+   },
+   "geometry": {
+    "x": 501040.99,
+    "y": 8000416.99
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 25
+   },
+   "geometry": {
+    "x": 500162.22,
+    "y": 8000799.57
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 26
+   },
+   "geometry": {
+    "x": 500784.2,
+    "y": 8001019.91
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 27
+   },
+   "geometry": {
+    "x": 500314.98,
+    "y": 8000627.01
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 28
+   },
+   "geometry": {
+    "x": 500835.3,
+    "y": 8000196.16
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 29
+   },
+   "geometry": {
+    "x": 500357.59,
+    "y": 8001099.06
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 30
+   },
+   "geometry": {
+    "x": 500920.8,
+    "y": 8001067.01
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 31
+   },
+   "geometry": {
+    "x": 500549.69,
+    "y": 8000286.84
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 32
+   },
+   "geometry": {
+    "x": 500750.79,
+    "y": 8000275.51
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 33
+   },
+   "geometry": {
+    "x": 500383.41,
+    "y": 8000697.89
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 34
+   },
+   "geometry": {
+    "x": 500854.69,
+    "y": 8000985.45
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 35
+   },
+   "geometry": {
+    "x": 500305.82,
+    "y": 8000401.31
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 36
+   },
+   "geometry": {
+    "x": 501031.31,
+    "y": 8000675.0
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 37
+   },
+   "geometry": {
+    "x": 500336.8,
+    "y": 8000814.68
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 38
+   },
+   "geometry": {
+    "x": 500771.35,
+    "y": 8000833.58
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 39
+   },
+   "geometry": {
+    "x": 500483.32,
+    "y": 8000220.64
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 40
+   },
+   "geometry": {
+    "x": 500940.16,
+    "y": 8000454.9
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 41
+   },
+   "geometry": {
+    "x": 500148.72,
+    "y": 8000858.89
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 42
+   },
+   "geometry": {
+    "x": 500592.22,
+    "y": 8000798.45
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 43
+   },
+   "geometry": {
+    "x": 500270.52,
+    "y": 8000358.21
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 44
+   },
+   "geometry": {
+    "x": 501117.09,
+    "y": 8000347.41
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 45
+   },
+   "geometry": {
+    "x": 500286.59,
+    "y": 8000923.52
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 46
+   },
+   "geometry": {
+    "x": 501001.86,
+    "y": 8001075.07
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 47
+   },
+   "geometry": {
+    "x": 500388.32,
+    "y": 8000158.47
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 48
+   },
+   "geometry": {
+    "x": 501076.47,
+    "y": 8000403.35
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 49
+   },
+   "geometry": {
+    "x": 500421.77,
+    "y": 8000895.81
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 50
+   },
+   "geometry": {
+    "x": 501123.43,
+    "y": 8000899.76
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 51
+   },
+   "geometry": {
+    "x": 500573.03,
+    "y": 8000316.12
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 52
+   },
+   "geometry": {
+    "x": 500877.72,
+    "y": 8000192.02
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 53
+   },
+   "geometry": {
+    "x": 500228.86,
+    "y": 8001099.26
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 54
+   },
+   "geometry": {
+    "x": 500964.29,
+    "y": 8001046.44
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 55
+   },
+   "geometry": {
+    "x": 500017.38,
+    "y": 8000399.53
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 56
+   },
+   "geometry": {
+    "x": 501027.82,
+    "y": 8000273.01
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 57
+   },
+   "geometry": {
+    "x": 500162.17,
+    "y": 8000899.68
+   }
+  },
+  {
+   "attributes": {
+    "ID_VALV": 58
+   },
+   "geometry": {
+    "x": 501091.48,
+    "y": 8000802.29
+   }
+  }
+ ]
+}
